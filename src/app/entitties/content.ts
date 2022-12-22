@@ -13,7 +13,7 @@ export class Content {
     const isContentLengthValid = this.validadeContentLength(content);
 
     if (!isContentLengthValid) {
-      throw new Error("Content must be between 5 and 255 characters");
+      throw new Error('Content must be between 5 and 255 characters');
     }
 
     this.content = content;
