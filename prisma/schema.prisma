@@ -12,7 +12,7 @@ datasource db {
 
 model Notification {
   id          String    @id
-  recipientId String // Referência a uma informação de outro serviço
+  recipientId String 
   content     String
   category    String
   readAt      DateTime?

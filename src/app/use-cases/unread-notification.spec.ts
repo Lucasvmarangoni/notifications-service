@@ -17,9 +17,7 @@ describe('Unread notification', () => {
       notificationId: notification.id,
     });
 
-    expect(notificationsRepository.notifications[0].readAt).toEqual(
-      expect.any(Date),
-    );
+    expect(notificationsRepository.notifications[0].readAt).toBeNull();
   });
 
   it('sould not be able to cancel a non existing notifications', async () => {
