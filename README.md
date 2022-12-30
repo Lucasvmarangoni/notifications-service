@@ -8,7 +8,7 @@
 O projeto é um sistema de serviço de notificações, desenvolvido durante o evento Ignite Lab 04 da RocketSeat
 </p>
 
-## Tecnologias
+## Technologies
 
 - TypeScript
 - Node.js
