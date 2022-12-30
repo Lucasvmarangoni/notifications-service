@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  # Notifications Service
+  # NOTIFICATIONS SERVICE
 </div>
 
 <p>
