@@ -5,7 +5,7 @@
 </div>
 
 <p>
-O projeto é um sistema de serviço de notificações, desenvolvido durante o evento Ignite Lab 04 da RocketSeat
+O projeto é um microsserviço de notificações, desenvolvido durante o evento Ignite Lab 04 da RocketSeat
 </p>
 
 ## Technologies
